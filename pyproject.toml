@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "stackoverflow-survey-2017"
+version = "0.1.0"
+description = "Analysis of the stackoverflow survey 2017 for the Udacity data scientist nanodegree"
+authors = ["Gianluca Manca <gianluca.manca89@gmail.com>"]
+readme = "README.md"
+packages = [{include = "stackoverflow_survey_2017"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+pandas = "^1.5.0"
+numpy = "^1.23.3"
+scikit-learn = "^1.1.2"
+seaborn = "^0.12.0"
+matplotlib = "^3.6.0"
+black = "^22.8.0"
+flake8 = "^5.0.4"
+statsmodels = "^0.13.2"
+
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.16.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
