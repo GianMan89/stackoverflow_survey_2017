@@ -55,9 +55,9 @@ along with a lower importance for the other.
 Furthermore, some feature pairings have a substantially stronger correlation 
 than others, such as the importance of a given industry and department, or 
 the industry and influence of the company's product, or financial performance
- and senior leaders' reputations.
+and senior leaders' reputations.
 
-The main findings of the code can also be found at the post available [here](https://medium.com/@wangshuocugb2005/want-to-become-a-work-from-home-developer-e0d1a8407193).
+The main findings of the code can also be found at the post available [here](https://medium.com/@gianluca.manca89/is-your-company-ready-for-a-competitive-labor-market-d6aa75aa03b8).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
